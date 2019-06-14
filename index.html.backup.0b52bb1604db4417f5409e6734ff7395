@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Business web site design provided by
+</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<!-- Image Preloader -->
+<script type="text/javascript" src="http://ajax.googlesapi.com/ajax/libs/jquery/jquery.min.js"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+<div id="topnav"> <a href="" title="Design Profesionals">Home</a>
+| <a href="#">Sitemap</a> | <a href="#">Contact</a>
+</div>
+<div id="header">
+<div class="name">
+<h1 class="top"><span class="blue">website</span><span class="orange">dot</span><span class="blue">com</span></h1>
+<h3 class="top">Nice Slogan Here</h3>
+</div>
+</div>
+<div id="menu">
+<ul>
+<li><a href="">Internet</a></li>
+<li><a href="#">Link Two</a></li>
+<li><a href="#">Link Three</a></li>
+<li><a href="#">Link Four</a></li>
+<li><a href="#">Link Five</a></li>
+</ul>
+</div>
+<div id="leftcolumn">
+<h3>User Login</h3>
+<form action="a" method="get">
+<p> Username: <br />
+<input name="a" size="16" type="text" /><br />
+Password: <br />
+<input name="a" size="16" type="password" /><br />
+<br />
+<input name="a" class="login" value="Login" type="submit" /> </p>
+</form>
+<div class="reg">
+<p>New User Register <a href="#">here</a>.</p>
+</div>
+<h4>Lorem ipsum dolor sit amet</h4>
+<div class="lefttext"> <img src="images/sl0.jpg" class="floatTR" alt="Image" />
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. <a href="#">Donec rutrum</a> neque eu nisl. Morbi eget
+felis. Vestibulum feugiat lectus ut magna. Ut interdum ipsum nec metus.
+Les droits des enfants ont été les nôtres. Il nous appartient de ne pas les oublier
+posuere cubilia Curae; Ut eget augue in velit elementum bibendum.</p>
+</div>
+<h4>Lorem ipsum dolor sit amet</h4>
+<div class="lefttext"> <img src="images/sl1.jpg" class="floatTL" alt="Image" />
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Donec rutrum neque eu nisl. Morbi eget felis. Vestibulum feugiat lectus
+ut magna. Ut interdum ipsum nec metus. <a href="#">Vestibulum
+ante</a> ipsum primis in faucibus orci luctus et ultrices posuere
+cubilia Curae; Ut eget augue in velit elementum bibendum.</p>
+</div>
+</div>
+<div id="rightcolumn">
+<blockquote>
+<p>L'accès gratuit à l'éducation devrait être adopté par tous les pays, car une nation qui est bien instruite est une nation qui avance positivement. Messieurs et mesdames les décideurs au sein des gouvernements, investissez donc sérieusement pour les enfants d'aujourd'hui qui seront l'avenir des nations.</p>
+</blockquote>
+<h2>Nos programmes su Education Numérique</h2>
+<img src="images/sl2.jpg" class="floatTL" alt="Image" />
+<p>CITEC (Centre d'Initiation en Technologie de l' Information et de la Communication) est un programme de formation pratique et d'apprentissage des élèves et étudiants des établissements d'enseignements publiques et privés, des communautés rurales et urbaines du Benin à l informatique et aux  métiers du Numérique. Il est élaboré pour appuyer l'état Béninois dans sa lutte acharnée pour le développement du Capital Humain.
+  Il s'agit dans une vision du développement durable, d'initier un cadre nouveau de formation fructueuse dans le TIC qui suscite d'espoirs et induisent la détermination des élèves et apprenants à s'impliquer au premier plan, de façon responsable en vue de contribuer efficacement à l'économie et à la société à travers des solutions informatique novatrices.</p>
+<div class="lb"></div>
+<h3>LE PROGRAMME C.I.T.E.C (Education Numérique) N.E
+CITEC ( Centre d'Initiation en Technologie de l' Information et de la Communication) </h3>
+<p>(Education Numérique) N.E
+CITEC ( Centre d'Initiation en Technologie de l' Information et de la Communication) à  pour objectifs d'initier des cours d'apprentissage améliorer sur l'utilisation de l'informatique  à nos apprenants, afin d'aider nos élèves à atteindre un potentiel scolaire professionnel à travers des programmes optimisés
+	Effectifs réduits dans nos salles; 
+	Salles de cours et recherche  en Informatique 
+	Salles de lecture et de recherche littéraire    ( Bibliothèque) 
+	Compétences et Expériences des Enseignants Confirmées; 
+	suivi rigoureux des apprenants; 
+	respect du calendrier scolaire;
+	étude de Texte et Calcul Mental; 
+	Anglais à partir du CI
+	L'informatique à partir de la Maternelle. </p>
+<div class="lb"></div>
+<h2>Lorem ipsum dolor sit</h2>
+<img src="images/sl3.jpg" class="floatTL" alt="Image" />
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Donec rutrum neque eu nisl. Morbi eget felis. Vestibulum feugiat lectus
+ut magna. Ut interdum ipsum nec metus. Vestibulum ante ipsum primis in
+faucibus orci luctus et ultrices posuere cubilia Curae; <a href="#">Ut
+eget augue</a> in velit elementum bibendum. Lorem ipsum dolor sit
+amet, consectetuer adipiscing elit. Donec rutrum neque eu nisl. Morbi
+eget felis. Vestibulum feugiat lectus ut magna. Ut interdum ipsum nec
+metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+posuere cubilia Curae; Ut eget augue in velit elementum bibendum. </p>
+</div>
+<div id="footer">
+
+<div align="center">
+	<table align="center" cellspacing="0" cellpadding="5" border="0" style="margin: -5px 0px 0px 0px;">
+		<tr valign="middle">
+			<td style="background: none;" nowrap="nowrap">&nbsp;<a style="background: none; border: none;" href="http://www.hosting24.com/" target="_blank" style="text-decoration: none;"><img style="background: none; border: none;" alt="Web hosting" src="images/img_link_01.png" height="15" width="80" border="0" /></a>&nbsp;</td>
+			<td style="background: none;" nowrap="nowrap">&nbsp;<a style="background: none; border: none;" href="http://www.youhosting.com/" target="_blank" style="text-decoration: none;"><img style="background: none; border: none;" alt="Reseller hosting" src="images/img_link_02.png" height="15" width="80" border="0" /></a>&nbsp;</td>
+			<td style="background: none;" nowrap="nowrap">&nbsp;<a style="background: none; border: none;" href="http://www.vps.me/" target="_blank" style="text-decoration: none;"><img style="background: none; border: none;" alt="VPS hosting" src="images/img_link_03.png" height="15" width="80" border="0" /></a>&nbsp;</td>
+			<td style="background: none;" nowrap="nowrap">&nbsp;<a style="background: none; border: none;" href="http://www.hostinger.com/" target="_blank" style="text-decoration: none;"><img style="background: none; border: none;" alt="Web Hosting" src="images/img_link_04.png" height="15" width="80" border="0" /></a>&nbsp;</td>
+			<td style="background: none;" nowrap="nowrap">&nbsp;<a style="background: none; border: none;" href="http://www.boxbilling.com/" target="_blank" style="text-decoration: none;"><img style="background: none; border: none;" alt="Billing software" src="images/img_link_05.png" height="25" width="54" border="0" /></a>&nbsp;</td>
+		</tr>
+	</table>
+</div>
+
+<p><a href="http://validator.w3.org/">Valid CSS</a>
+:: <a href="http://validator.w3.org/">Valid XHTML</a>
+Copyright © 2011 by Your Company Name :: Designed by: <a href="">Design Profesionals</a></p>
+
+</div>
+</div>
+</body></html>
